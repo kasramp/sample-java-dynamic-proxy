@@ -2,7 +2,7 @@
 
 This is an example of Java Dynamic Proxy to get you started with this feature. To understand how it works read the following article,
 
-- LINK
+- [Getting started with dynamic proxies in Java](https://blog.madadipouya.com/2020/01/25/getting-started-with-dynamic-proxies-in-java/)
 
 ## Requirements
 
